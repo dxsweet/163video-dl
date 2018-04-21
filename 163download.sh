@@ -1,3 +1,8 @@
+# !/bin/zsh
+#this is shell script for downloading 163 video
+#write by dxsweet
+#Email:dxsweet@gmail.com
+
 i=1
 grep  '<div class="down"><a href='    *.html | while read line
 do
