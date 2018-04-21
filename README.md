@@ -8,5 +8,5 @@
 python videoDownloader.py<br>
 <br>
 3   运行shell脚本<br>
-sh 163download <br>
+sh 163download.sh <br>
 
