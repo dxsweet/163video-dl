@@ -1,0 +1,4 @@
+    fnor=$(echo $urldl | cut -d '/' -f10 | cut -d '?' -f1)
+    echo $fnor
+    
+        mv "$fnor"  ./"$fn"
